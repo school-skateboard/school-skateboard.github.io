@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## bienvenido a school skateboard
 
 You can use the [editor on GitHub](https://github.com/school-skateboard/school-skateboard.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,15 +11,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# caracteristicas
+## precios
+### producto
 
-- Bulleted
-- List
+- grande
+- $5
+- producto
+- $38977
 
-1. Numbered
-2. List
+1. skate
+2. larga
+3. corta
+4. mediana
+5. grande
 
 **Bold** and _Italic_ and `Code` text
 
