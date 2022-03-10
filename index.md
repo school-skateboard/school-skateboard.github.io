@@ -1,42 +1,31 @@
 ## bienvenido a school skateboard
 
-You can use the [editor on GitHub](https://github.com/school-skateboard/school-skateboard.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### te enseñaremos trucos y tipos de skates
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# trucos
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Giros de 900 y 1260 grados.
+- Varial Heelflip Underflip.
+- Halfcab Broken Fingers
+- 540 Rodeo Flip.
+- Kickflip 360 Truck stand.
+- Front Foot Impossible.
 
-```markdown
-Syntax highlighted code block
+[![image](https://user-images.githubusercontent.com/99926808/157769415-d401475d-6360-44ea-9de7-755473498f7d.png)
+](![image](https://user-images.githubusercontent.com/99926808/157769511-0be0a5ee-b331-4b8f-910f-f8e634402101.png)) and ![Image](src)
 
-# caracteristicas
-## precios
-### producto
+### tipos skates
+-PATINES EN LÍNEA.
+-PATINES AGRESIVOS.
+-PATINES FREESKATE.
+-PATINES QUADS.
+-Pennyboard
+-Carveboard
+-Streetboard
+-Hamboard
+### contactanos
 
-- grande
-- $5
-- producto
-- $38977
+whattsapp: +52 763464576
 
-1. skate
-2. larga
-3. corta
-4. mediana
-5. grande
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/school-skateboard/school-skateboard.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+correo: 
