@@ -1,4 +1,4 @@
-### contactanos
+### Contactanos
 
 [Inicio](index.md) [Tipos de skates](skates.md) [Contacto](contacto.md)
 
