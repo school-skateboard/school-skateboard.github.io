@@ -10,6 +10,7 @@ whattsapp:
 En esta parte llenaras el formularioa para que un profecional se ponga en contacto con tigo
 
 <form action="/action_page.php">
+  
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
 <labe for="lname"> Apellidos:</label><br>
@@ -23,4 +24,5 @@ En esta parte llenaras el formularioa para que un profecional se ponga en contac
 <label for="birthay">Fecha:</label>
 <input type="date" id="date" name="date"> 
 <input type="submit" value="Enviar">
+  
 </form>
