@@ -4,7 +4,7 @@
 
 En esta lugar te enseñaremos trucos y tipos de skates para que desarolles mejor tus habilidades
 
-## trucos
+## Trucos
 
 - Giros de 900 y 1260 grados.
 - Varial Heelflip Underflip.
