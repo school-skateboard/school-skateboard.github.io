@@ -1,4 +1,4 @@
-### tipos skates
+### Tipos skates
 
 [Inicio](indiex.md) [Tipos de skates](skates.md) [Contacto](contacto.md)
 
