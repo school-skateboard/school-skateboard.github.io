@@ -1,6 +1,6 @@
 ### bienvenido a school skateboard
 
-[Inicio](indiex.md) [Tipos de skates](skates.md) [Contacto](contacto.md)
+[Inicio](index.md) [Tipos de skates](skates.md) [Contacto](contacto.md)
 
 En esta lugar te enseñaremos trucos y tipos de skates para que desarolles mejor tus habilidades
 
