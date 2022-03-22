@@ -1,6 +1,6 @@
 ### Tipos skates
 
-[Inicio](indiex.md) [Tipos de skates](skates.md) [Contacto](contacto.md)
+[Inicio](index.md) [Tipos de skates](skates.md) [Contacto](contacto.md)
 
 - PATINES EN LÍNEA.
 - PATINES AGRESIVOS.
