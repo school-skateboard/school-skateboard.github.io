@@ -24,4 +24,4 @@ En esta parte llenaras el formularioa para que un profecional se ponga en contac
 <label for="birthay">Fecha:</label>
 <input type="date" id="date" name="date"> 
 <input type="submit" value="Enviar">
-</form>
+< /form>
