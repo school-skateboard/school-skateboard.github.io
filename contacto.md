@@ -1,6 +1,6 @@
 ### contactanos
 
-[Inicio](indiex.md) [Tipos de skates](skates.md) [Contacto](contacto.md)
+[Inicio](index.md) [Tipos de skates](skates.md) [Contacto](contacto.md)
 
 En esta seccion solucisaras orientacion, consejos o asistecias profecional-
 
