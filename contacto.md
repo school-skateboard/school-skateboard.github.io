@@ -9,7 +9,7 @@ whattsapp:
 
 En esta parte llenaras el formulario para que un profecional se ponga en contacto contigo
 
-<form action="https://formspree.io/f/xknyzdlr" method="POST"">
+<form action="https://formspree.io/f/xknyzdlr">
   
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
