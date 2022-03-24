@@ -9,7 +9,7 @@ whattsapp:
 
 En esta parte llenaras el formulario para que un profecional se ponga en contacto contigo
 
-<form action="https:/formspree.io/f/xknyzdlr">
+<form action="https://formspree.io/f/xknyzdlr">
   
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
@@ -24,4 +24,4 @@ En esta parte llenaras el formulario para que un profecional se ponga en contact
 <label for="birthay">Fecha:</label>
 <input type="date" id="date" name="date"> 
 <input type="submit" value="Enviar">
-< /form>
+</form>
