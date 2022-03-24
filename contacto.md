@@ -7,9 +7,9 @@ En esta seccion solucisaras orientacion, consejos o asistecias profecional-
 whattsapp: 
 - +52 763464576
 
-En esta parte llenaras el formularioa para que un profecional se ponga en contacto con tigo
+En esta parte llenaras el formulario para que un profecional se ponga en contacto contigo
 
-<form action="/action_page.php">
+<form action="https:/formspree.io/f/xknyzdlr">
   
 <label for name="name"> Nombre:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
